@@ -1,0 +1,16 @@
+E:\OrangeTasks\C#-Tasks\Task4_Function\bin\Debug\net5.0\Task4_Function.exe
+E:\OrangeTasks\C#-Tasks\Task4_Function\bin\Debug\net5.0\Task4_Function.deps.json
+E:\OrangeTasks\C#-Tasks\Task4_Function\bin\Debug\net5.0\Task4_Function.runtimeconfig.json
+E:\OrangeTasks\C#-Tasks\Task4_Function\bin\Debug\net5.0\Task4_Function.runtimeconfig.dev.json
+E:\OrangeTasks\C#-Tasks\Task4_Function\bin\Debug\net5.0\Task4_Function.dll
+E:\OrangeTasks\C#-Tasks\Task4_Function\bin\Debug\net5.0\ref\Task4_Function.dll
+E:\OrangeTasks\C#-Tasks\Task4_Function\bin\Debug\net5.0\Task4_Function.pdb
+E:\OrangeTasks\C#-Tasks\Task4_Function\obj\Debug\net5.0\Task4_Function.csproj.AssemblyReference.cache
+E:\OrangeTasks\C#-Tasks\Task4_Function\obj\Debug\net5.0\Task4_Function.GeneratedMSBuildEditorConfig.editorconfig
+E:\OrangeTasks\C#-Tasks\Task4_Function\obj\Debug\net5.0\Task4_Function.AssemblyInfoInputs.cache
+E:\OrangeTasks\C#-Tasks\Task4_Function\obj\Debug\net5.0\Task4_Function.AssemblyInfo.cs
+E:\OrangeTasks\C#-Tasks\Task4_Function\obj\Debug\net5.0\Task4_Function.csproj.CoreCompileInputs.cache
+E:\OrangeTasks\C#-Tasks\Task4_Function\obj\Debug\net5.0\Task4_Function.dll
+E:\OrangeTasks\C#-Tasks\Task4_Function\obj\Debug\net5.0\ref\Task4_Function.dll
+E:\OrangeTasks\C#-Tasks\Task4_Function\obj\Debug\net5.0\Task4_Function.pdb
+E:\OrangeTasks\C#-Tasks\Task4_Function\obj\Debug\net5.0\Task4_Function.genruntimeconfig.cache
